@@ -2,3 +2,6 @@ modified line1
 added line2
 added line3
 modified line2
+
+added line6 
+and line7
